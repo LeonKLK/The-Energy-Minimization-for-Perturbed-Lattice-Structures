@@ -1,6 +1,6 @@
 # Introduction
 
-This is a computational physics projects(PHYS4061) at The Chinese University of Hong Kong(CUHK). In this project I focused on lattice structures with face-centered cubic structure, including Aluminium and Magnesium Oxide(MgO). C is the main language of this project.
+This is a computational physics projects at The Chinese University of Hong Kong(CUHK). In this project I focused on lattice structures with face-centered cubic structure, including Aluminium and Magnesium Oxide(MgO). C is the main language of this project.
 
 I focused on the Coulomb–Buckingham potential(MgO) and Lennard-Jones potential(Aluminium), in the `unpertubed structure` file you can find the construction for both substances.
 
